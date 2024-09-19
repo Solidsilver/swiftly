@@ -1,0 +1,4 @@
+module raylib {
+    umbrella header "raylib.h"
+    link "raylib"
+}
